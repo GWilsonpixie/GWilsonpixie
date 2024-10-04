@@ -23,7 +23,7 @@
 
 ## 📫 How to Reach Me
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)  
-- 📧 Or reach me via email at: your-email@example.com
+- 📧 Or reach me via email at: gulumserwilsonn@gmail.com
 
 ---
 
