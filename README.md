@@ -1,3 +1,6 @@
+![My Animation](2024-10-0316-13-45-ezgif.com-video-to-gif-converter%20(1).gif)
+
+
 👋 Hi there! I'm Gülümser Wilson  
 
 💻 **SDET (Software Development Engineer in Test)** | ☕ **Java Enthusiast** | 🧪 **Selenium & Automation Expert**  
@@ -11,7 +14,6 @@
 
 🚀 Check out my projects below to see what I’ve been working on!
 
-![My Animation](dosya-adi.gif)
 
 
 
@@ -25,4 +27,5 @@
 
 
 
-![My Animation](2024-10-0316-13-45-ezgif.com-video-to-gif-converter%20(1).gif)
+
+
