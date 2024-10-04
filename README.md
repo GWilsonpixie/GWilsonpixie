@@ -22,7 +22,7 @@
 ---
 
 ## 📫 How to Reach Me
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)  
+- Connect with me on [LinkedIn] (https://www.linkedin.com/in/gulumser-wilson-247099278/) ]
 - 📧 Or reach me via email at: gulumserwilsonn@gmail.com
 
 ---
