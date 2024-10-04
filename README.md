@@ -1,21 +1,31 @@
 ![My Animation](2024-10-0316-13-45-ezgif.com-video-to-gif-converter%20(1).gif)
 
-📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+# 📖 About Me
+- 👋 Hi there! I'm Gülümser Wilson  
+- 💻 **SDET (Software Development Engineer in Test)** | ☕ **Java Enthusiast** | 🧪 **Selenium & Automation Expert**
 
-👋 Hi there! I'm Gülümser Wilson  
-
-💻 **SDET (Software Development Engineer in Test)** | ☕ **Java Enthusiast** | 🧪 **Selenium & Automation Expert**  
-
-📚 Currently expanding my skills through a comprehensive bootcamp covering:
+📚 I'm currently expanding my skills through a comprehensive bootcamp covering:
    - **Algorithms, Java, Selenium, TestNG, Cucumber**
    - **MySQL, JDBC, Postman, Rest-Assured**
    - **Jenkins, AI-powered testing, Test Management, Marketing, ISTQB**
-📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)  
 
-🚀 Check out my projects below to see what I’ve been working on!
+---
 
-⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+## 📝 What I'm Up To
+- 🔭 I'm currently...
+   - Building test automation frameworks and improving my skills in AI-powered testing
+
+- 🎯 In the near future, I plan to...
+   - Obtain my ISTQB certification
+   - Deepen my knowledge of DevOps tools and practices
+
+---
+
+## 📫 How to Reach Me
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)  
+- 📧 Or reach me via email at: your-email@example.com
+
+---
 
 ### 🛠️ Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -30,11 +40,6 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AI-powered testing](https://img.shields.io/badge/AI--powered%20testing-000000?style=for-the-badge&logo=ai&logoColor=white)
 ![ISTQB](https://img.shields.io/badge/ISTQB-FF0000?style=for-the-badge&logoColor=white)
-
-
-
-
-
 
 
 
