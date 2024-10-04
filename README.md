@@ -1,4 +1,5 @@
-file:///C:/Users/wilso/Downloads/2024-10-0412-07-03-ezgif.com-video-to-gif-converter.gif
+![Açıklayıcı Metin](https://github.com/kullanici_adi/depo_adi/raw/branch_adi/gif_dosya_adi.gif)
+
 
 # 📖 About Me
 - 👋 Hi there! I'm Gülümser Wilson  
