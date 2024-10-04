@@ -1,5 +1,7 @@
 ![My Animation](2024-10-0316-13-45-ezgif.com-video-to-gif-converter%20(1).gif)
+
 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+
 👋 Hi there! I'm Gülümser Wilson  
 
 💻 **SDET (Software Development Engineer in Test)** | ☕ **Java Enthusiast** | 🧪 **Selenium & Automation Expert**  
