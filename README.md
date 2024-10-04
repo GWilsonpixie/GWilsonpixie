@@ -1,4 +1,4 @@
-
+![My Animation](2024-10-0412-07-03-ezgif.com-video-to-gif-converter.gif)
 
 # 📖 About Me
 - 👋 Hi there! I'm Gülümser Wilson  
