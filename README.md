@@ -1,4 +1,4 @@
-![My Animation](2024-10-0316-13-45-ezgif.com-video-to-gif-converter%20(1).gif)
+file:///C:/Users/wilso/Downloads/2024-10-0412-07-03-ezgif.com-video-to-gif-converter.gif
 
 # 📖 About Me
 - 👋 Hi there! I'm Gülümser Wilson  
