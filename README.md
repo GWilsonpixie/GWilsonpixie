@@ -1,4 +1,4 @@
-![Açıklayıcı Metin](https://github.com/kullanici_adi/depo_adi/raw/branch_adi/gif_dosya_adi.gif)
+https://github.com/kullanici_adi/depo_adi/raw/branch_adi/gif_dosya_adi.gif
 
 
 # 📖 About Me
