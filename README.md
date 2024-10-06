@@ -1,4 +1,5 @@
-![My Animation](2024-10-0412-07-03-ezgif.com-video-to-gif-converter.gif)
+![My Animation](https://github.com/username/repositoryname/blob/main/animation.gif)
+
 
 # 📖 About Me
 - 👋 Hi there! I'm Gülümser Wilson  
