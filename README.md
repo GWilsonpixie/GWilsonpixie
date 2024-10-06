@@ -1,4 +1,4 @@
-https://github.com/GWilsonpixie/repositoryname/blob/main/yourgif.gif
+
 
 
 # 📖 About Me
