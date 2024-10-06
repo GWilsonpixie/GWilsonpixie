@@ -1,4 +1,5 @@
-![My Animation](https://github.com/username/repositoryname/blob/main/animation.gif)
+![My GIF](https://github.com/username/repositoryname/blob/main/2024-10-0523-10-29-ezgif.com-video-to-gif-converter (1).gif)
+
 
 
 # 📖 About Me
