@@ -1,7 +1,5 @@
 ![My GIF](https://github.com/username/repositoryname/blob/main/2024-10-0523-10-29-ezgif.com-video-to-gif-converter (1).gif)
 
-
-
 # 📖 About Me
 - 👋 Hi there! I'm Gülümser Wilson  
 - 💻 **SDET (Software Development Engineer in Test)** | ☕ **Java Enthusiast** | 🧪 **Selenium & Automation Expert**
