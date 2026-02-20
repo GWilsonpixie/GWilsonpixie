@@ -5,23 +5,16 @@
 
 
 # 📖 About Me
-- 👋 Hi there! I'm Gülümser Wilson  
-- 💻 **SDET (Software Development Engineer in Test)** | ☕ **Java Enthusiast** | 🧪 **Selenium & Automation Expert**
-
-📚 I'm currently expanding my skills through a comprehensive bootcamp covering:
-   - **Algorithms, Java, Selenium, TestNG, Cucumber**
-   - **MySQL, JDBC, Postman, Rest-Assured**
-   - **Jenkins, AI-powered testing, Test Management, Marketing, ISTQB**
+Full-Stack AI Developer | SaaS Product Designer | AiStager.ai Generative Product
 
 ---
 
 ## 📝 What I'm Up To
-- 🔭 I'm currently...
-   - Building test automation frameworks and improving my skills in AI-powered testing
+With a background in SDET and hands-on experience in test automation, I now work as a full-stack AI developer on a SaaS product involving generative AI and ML model development. My skill set spans backend (Java Spring Boot), frontend (React), and testing frameworks (Selenium, TestNG, Postman).
 
-- 🎯 In the near future, I plan to...
-   - Obtain my ISTQB certification
-   - Deepen my knowledge of DevOps tools and practices
+Currently part of the Machine Learning Exploration Program at Amii, I focus on building scalable, high-quality AI systems with clean data pipelines and reliable infrastructure.
+
+Passionate about delivering robust, user-friendly software that bridges innovation and real-world value.
 
 ---
 
